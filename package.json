@@ -72,6 +72,6 @@
     "typechain": "hardhat typechain"
   },
   "dependencies": {
-    "solc": "0.8.1"
+    "solc": "0.8.2"
   }
 }
